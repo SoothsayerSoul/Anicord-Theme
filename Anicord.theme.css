@@ -31,7 +31,7 @@
 	/* 📄 NOTE: If you want the background to be transparent then you can remove the `url(imageurl)` and then change the attribute to `transparent`
            Requirements: Please enable "Windows Transparent" in your client mod make sure that work. You aslo can use Mica For Everyone to have a transparent backgound with Mica blur effect */
 	/* Blur, Margin, Radius */
-	--app-blur: 0px;
+	--app-blur: 1px;
 	--app-margin: 24px;
 	--app-radius: 10px;
 	/* Font */
@@ -44,7 +44,7 @@
 	--accent-opacity: 1; /* A */
 	--accent-text-color: #fff; /* Text Color */
 	/* Others */
-	--sidebar-color: rgba(0,0,0,0.4);
+	--sidebar-color: rgba(255, 89, 30);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 	/* Message */
 	--message-color: rgba(0,0,0,0.4);
@@ -60,7 +60,7 @@
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
-	--textarea-text-color: #FF3333;
+	--textarea-text-color: #fff;
 	--textarea-radius: 22px;  /*	-	*/
 	/* Card */
 	--card-color: rgba(0,0,0,0.4);
