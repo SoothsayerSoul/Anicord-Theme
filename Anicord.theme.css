@@ -31,7 +31,7 @@
 	/* 📄 NOTE: If you want the background to be transparent then you can remove the `url(imageurl)` and then change the attribute to `transparent`
            Requirements: Please enable "Windows Transparent" in your client mod make sure that work. You aslo can use Mica For Everyone to have a transparent backgound with Mica blur effect */
 	/* Blur, Margin, Radius */
-	--app-blur: 5px;
+	--app-blur: 2px;
 	--app-margin: 24px;
 	--app-radius: 10px;
 	/* Font */
