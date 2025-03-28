@@ -63,9 +63,9 @@
 	--textarea-text-color: #fff;
 	--textarea-radius: 22px;  /*	-	*/
 	/* Card */
-	--card-color: rgba(0,0,0,0.4);
-	--card-color-hover: rgba(255,89,30);
-	--card-color-select: rgba(255,89,30); /*	-	*/
+	--card-color: rgba(255,89,30);
+	--card-color-hover: rgba(0,0,0,0.5);
+	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
 	/* Button */
 	--button-height: 32px;
 	--button-padding: 0 16px;
