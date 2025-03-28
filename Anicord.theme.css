@@ -57,13 +57,13 @@
 	--reply-lightness: 61.8%;
 	--reply-opacity: 1; /*	-	*/
 	/* Textarea */
-	--textarea-color: 255,255,255;
+	--textarea-color: 255,89,30;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #fff;
 	--textarea-radius: 22px;  /*	-	*/
 	/* Card */
-	--card-color: rgba(255,89,30);
+	--card-color: rgba(0,0,0,0.4);
 	--card-color-hover: rgba(0,0,0,0.5);
 	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
 	/* Button */
