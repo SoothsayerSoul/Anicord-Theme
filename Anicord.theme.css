@@ -38,9 +38,9 @@
 	--main-font: 'Constantia';
 	--code-font: 'Iceland';
 	/* Color - HSLA */ /* Hex to HSL here: https://htmlcolors.com/hex-to-hsl */
-	--accent-hue: 204; /* H */
-	--accent-saturation: 80%; /* S */
-	--accent-lightness: 65%; /* L */
+	--accent-hue: 16; /* H */
+	--accent-saturation: 100%; /* S */
+	--accent-lightness: 56%; /* L */
 	--accent-opacity: 1; /* A */
 	--accent-text-color: #fff; /* Text Color */
 	/* Others */
@@ -57,7 +57,7 @@
 	--reply-lightness: 61.8%;
 	--reply-opacity: 1; /*	-	*/
 	/* Textarea */
-	--textarea-color: 255,89,30;
+	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #fff;
