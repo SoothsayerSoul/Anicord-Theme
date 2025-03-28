@@ -47,7 +47,7 @@
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 	/* Message */
-	--message-color: rgba(255,89,30);
+	--message-color: rgba(0,0,0,0.4);
 	--message-radius: 8px;
 	--message-padding-top: 8px;
 	--message-padding-side: 8px; /*	-	*/
@@ -72,10 +72,10 @@
 	--button-action-color: #000;
 	--button-radius: 16px; /*	-	*/
 	/* Scrollbar */
-	--interactive-normal: #aaa;
-	--interactive-hover: #ddd;
-	--interactive-active: #fff;
-	--interactive-muted: #777; /*	-	*/
+	--interactive-normal: #ff591e;
+	--interactive-hover: #ff591e;
+	--interactive-active: #ff591e;
+	--interactive-muted: #ff591e; /*	-	*/
 	/* Background */
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
