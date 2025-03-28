@@ -38,11 +38,11 @@
 	--main-font: 'Constantia';
 	--code-font: 'Iceland';
 	/* Color - HSLA */ /* Hex to HSL here: https://htmlcolors.com/hex-to-hsl */
-	--accent-hue: 19; /* H */
-	--accent-saturation: 87%; /* S */
+	--accent-hue: 27; /* H */
+	--accent-saturation: 98%; /* S */
 	--accent-lightness: 49%; /* L */
 	--accent-opacity: 1; /* A */
-	--accent-text-color: #a996bc; /* Text Color */
+	--accent-text-color: #fff; /* Text Color */
 	/* Others */
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
@@ -60,7 +60,7 @@
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
-	--textarea-text-color: #fff;
+	--textarea-text-color: #a996bc;
 	--textarea-radius: 22px;  /*	-	*/
 	/* Card */
 	--card-color: rgba(0,0,0,0.4);
