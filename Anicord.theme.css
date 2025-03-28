@@ -64,18 +64,18 @@
 	--textarea-radius: 22px;  /*	-	*/
 	/* Card */
 	--card-color: rgba(0,0,0,0.4);
-	--card-color-hover: rgba(0,0,0,0.5);
-	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
+	--card-color-hover: rgba(255,89,30);
+	--card-color-select: rgba(255,89,30); /*	-	*/
 	/* Button */
 	--button-height: 32px;
 	--button-padding: 0 16px;
 	--button-action-color: #000;
 	--button-radius: 16px; /*	-	*/
 	/* Scrollbar */
-	--interactive-normal: #ff591e;
-	--interactive-hover: #ff591e;
-	--interactive-active: #ff591e;
-	--interactive-muted: #ff591e; /*	-	*/
+	--interactive-normal: #aaa;
+	--interactive-hover: #ddd;
+	--interactive-active: #fff;
+	--interactive-muted: #777; /*	-	*/
 	/* Background */
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
