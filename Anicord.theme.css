@@ -38,11 +38,11 @@
 	--main-font: 'Constantia';
 	--code-font: 'Iceland';
 	/* Color - HSLA */ /* Hex to HSL here: https://htmlcolors.com/hex-to-hsl */
-	--accent-hue: 16; /* H */
-	--accent-saturation: 100%; /* S */
-	--accent-lightness: 56%; /* L */
+	--accent-hue: 19; /* H */
+	--accent-saturation: 87%; /* S */
+	--accent-lightness: 49%; /* L */
 	--accent-opacity: 1; /* A */
-	--accent-text-color: #fff; /* Text Color */
+	--accent-text-color: #a996bc; /* Text Color */
 	/* Others */
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
